@@ -16,7 +16,7 @@ Build Weather application using React JS, Foundation, Webpack & Node JS.
 2. Set the environmental variables which will be impacted on openWeatherMap.jsx.
    get the api key from here[https://openweathermap.org] by signing up.
    
-   API_KEY=<api-key> 
+   API_KEY= < api-key > 
 
 3. Run npm install in terminal to load the dependencies.
    ```
