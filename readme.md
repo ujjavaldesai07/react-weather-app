@@ -1,5 +1,5 @@
 # react-weather-app
-Build Weather application using React JS, Foundation, Webpack & Node JS.
+Weather application built using ReactJS, Webpack & NodeJS.
 
 **DEMO**
  - Deployed to Heroku Cloud: 
